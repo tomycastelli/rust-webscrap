@@ -1,0 +1,11 @@
+[package]
+name = "webscraping"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.83"
+color-eyre = "0.6.3"
+reqwest = "0.12.4"
+thirtyfour = "0.32.0"
+tokio = "1.37.0"
